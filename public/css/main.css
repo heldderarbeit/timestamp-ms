@@ -1,0 +1,13 @@
+blockquote {
+  font-size: 1.2em;
+  margin-top: 25px; }
+  blockquote li:first-child {
+    margin-top: 10px; }
+  blockquote li:not(:last-child) {
+    margin-bottom: 15px; }
+
+h2 {
+  font-size: 1.7em;
+  margin-top: 30px; }
+
+/*# sourceMappingURL=main.css.map */
